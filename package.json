@@ -1,0 +1,19 @@
+{
+  "name": "calendar",
+  "version": "0.0.1",
+  "description": "automatically fills out your calendar with specified events in the most efficient way possible",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snuupy/calendar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Snuupy/calendar/issues"
+  },
+  "homepage": "https://github.com/Snuupy/calendar#readme"
+}
